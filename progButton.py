@@ -9,12 +9,12 @@ import webbrowser
 from numpy import array
 
 #Authentication
-consumer_key = 'AvcNG2dXEc97oBvOKdvBwo2QN'
-consumer_secret = 'ClHRgg2GuHNysPqN5L67UaT0yOaQDn1POTbbeYYrSEKk5Oz6Sp'
-access_token = '1090284795479949312-0MM9QBo5EpHFkX2NgvHEU9wtH9GG3O'
-access_token_secret = '0N6vB0cPjtYfDTTACkcALhQNrRoQJhdZwD9IoOKfx8wrA'
+consumer_key = 'PRIVATE'
+consumer_secret = 'PRIVATE'
+access_token = 'PRIVATE'
+access_token_secret = 'PRIVATE'
 global new_token
-new_token = '1090284795479949312-0MM9QBo5EpHFkX2NgvHEU9wtH9GG3O'
+new_token = 'PRIVATE'
 
 keywordData1 = ""
 numberOfTweetsData1 = ""
